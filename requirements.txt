@@ -1,9 +1,0 @@
-numpy
-pandas
-flask 
-seaborn
--e .
-
-#-e .    # it has a builtin link with setup .py file if u run this setup file will also run
-# pip install -r requirements.txt
-
